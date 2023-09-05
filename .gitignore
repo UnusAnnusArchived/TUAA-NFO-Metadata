@@ -133,3 +133,4 @@ metadata/*/*.nfo
 !metadata/*/season.nfo
 .DS_Store
 ._.DS_Store
+metadata/*.zip
